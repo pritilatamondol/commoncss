@@ -4,11 +4,11 @@ Make look and feel same across the dashboard
 
 # Installation
 
-`npm i commoncss -- save`
+`npm i unifiedcss -- save`
 
 
-Then....
+Then in your index.js add this line
 
 ```
-import { commoncss } from 'commoncss';
+import 'unifiedcss/commoncss.css';
 ```

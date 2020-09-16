@@ -16,6 +16,9 @@
     background-color: #dedee2;
     padding: 1px 15px;
 }
+.panel-body {
+    padding: 15px;
+}
 .btn-primary{
     background-color: #2b95a3;
     border-color: #2b95a3;
